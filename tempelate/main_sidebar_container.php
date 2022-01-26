@@ -14,19 +14,19 @@
           <li class="nav-item">
             <a href="#" class="nav-link">
               <i class="nav-icon far fa-circle text-danger"></i>
-              <p class="text">Important</p>
+              <p class="text">Tahun</p>
             </a>
           </li>
           <li class="nav-item">
             <a href="#" class="nav-link">
-              <i class="nav-icon far fa-circle text-warning"></i>
-              <p>Warning</p>
+              <i class="nav-icon far fa-circle text-danger"></i>
+              <p>Ruangan</p>
             </a>
           </li>
           <li class="nav-item">
             <a href="#" class="nav-link">
-              <i class="nav-icon far fa-circle text-info"></i>
-              <p>Informational</p>
+              <i class="nav-icon far fa-circle text-danger"></i>
+              <p>Admin</p>
             </a>
           </li>
         </ul>
