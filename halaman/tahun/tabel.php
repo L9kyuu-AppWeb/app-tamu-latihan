@@ -1,26 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<!-- Head -->
-<?php include 'tempelate/head.php'; ?>
-<!-- /.Head -->
-<body class="hold-transition sidebar-mini">
-<!-- Site wrapper -->
-<div class="wrapper">
-  <!-- Navbar -->
-  <?php include 'tempelate/navbar.php'; ?>
-  <!-- /.navbar -->
-
-  <!-- Main Sidebar Container -->
-  <?php include 'tempelate/main_sidebar_container.php'; ?>
-
-  <!-- Content Wrapper. Contains page content -->
-  <div class="content-wrapper">
+<div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1>Blank Page</h1>
+            <h1>Tahun Tabel</h1>
           </div>
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
@@ -63,27 +47,3 @@
     </section>
     <!-- /.content -->
   </div>
-  <!-- /.content-wrapper -->
-
-  <!-- Footer -->
-  <?php include 'tempelate/footer.php'; ?>
-  <!-- /.Footer -->
-
-  <!-- Control Sidebar -->
-  <aside class="control-sidebar control-sidebar-dark">
-    <!-- Control sidebar content goes here -->
-  </aside>
-  <!-- /.control-sidebar -->
-</div>
-<!-- ./wrapper -->
-
-<!-- jQuery -->
-<script src="plugins/jquery/jquery.min.js"></script>
-<!-- Bootstrap 4 -->
-<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-<!-- AdminLTE App -->
-<script src="dist/js/adminlte.min.js"></script>
-<!-- AdminLTE for demo purposes -->
-<script src="dist/js/demo.js"></script>
-</body>
-</html>
